@@ -79,7 +79,6 @@ The robot should follow the specified sequence for detecting waste and reporting
 
 - **Video**: Record and upload the video of the run on YouTube as "Unlisted".
 - **Project Folder**: Upload the complete project folder created in Atmel Studio 6.
-- 
 ## Example Run
 
 [![EYTRC#1069](https://img.youtube.com/vi/iiDDVHnq1Is/0.jpg)](https://www.youtube.com/watch?v=iiDDVHnq1Is)
