@@ -34,6 +34,8 @@ Teams need to prepare the arena following these steps:
 - **Printing**: Print the arena design on a flex sheet as per provided dimensions (6.5 x 6 ft).
 - **Waste Blocks (WBs)**: Create WBs of 7 x 7 x 8 cm using materials like thermocol or cardboard, ensuring they are white.
 
+![Track](https://github.com/JowinN/E-Yantra_Trash_Collection_Bot/blob/main/Resources/Eyantra_Track.jpg?raw=true)
+
 ## 4. Getting Started
 
 ### Resources
