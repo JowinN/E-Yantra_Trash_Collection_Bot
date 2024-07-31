@@ -79,6 +79,8 @@ The robot should follow the specified sequence for detecting waste and reporting
 
 - **Video**: Record and upload the video of the run on YouTube as "Unlisted".
 - **Project Folder**: Upload the complete project folder created in Atmel Studio 6.
+- 
+![Video]<iframe width="695" height="391" src="https://www.youtube.com/embed/iiDDVHnq1Is" title="EYTRC#1069" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## All the Best! Happy Learning!
 
